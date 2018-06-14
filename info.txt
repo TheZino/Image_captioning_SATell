@@ -1,0 +1,13 @@
+
+You should have:
+
+	mscoco/images/train2014
+	mscoco/images/val2014
+	mscoco/annotations/captions_train2014.json
+
+	mscoco/annotations/captions_val2014.json
+
+	vocab.pkl (the vocabulary)
+
+	name_feature_train_t.pth (the training features extracted from vggnet, for each image, it is 196*512)
+	name_feature_val_t.pth (the validation features)
